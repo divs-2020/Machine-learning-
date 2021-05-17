@@ -26,12 +26,11 @@ Google ML Crash Course: https://developers.google.com/machine...
 - for frontend: streamlit
 MadewithML : https://madewithml.com/
 ## 6.Deploy on cloud compute services
---https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
--- https://ai.google/tools/
+- https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
+- https://ai.google/tools/
 
--- sagemaker
-
--- Azure
+- sagemaker
+- Azure
 ## 7.Checking your skills
 workera : https://workera.ai/
 
