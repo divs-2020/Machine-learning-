@@ -1,5 +1,5 @@
 # Machine-learning-Roadmap
-Starting ewith your machine learning journey and folloeing these resources may take upto 6 months but you will have a full stack developed project at the end of this:)
+Starting with your machine learning journey and following these resources may take upto 6 months but you will have a full stack developed project at the end of this:)
 
 Github Roadmap Link:
 https://github.com/mrdbourke/machine-learning-roadmap
@@ -28,7 +28,9 @@ MadewithML : https://madewithml.com/
 ## 6.Deploy on cloud compute services
 --https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index
 -- https://ai.google/tools/
+
 -- sagemaker
+
 -- Azure
 ## 7.Checking your skills
 workera : https://workera.ai/
@@ -52,4 +54,5 @@ useful Links:
  - https://arxiv.org/
  - https://madewithml.com/
  - https://paperswithcode.com/
-Now you have great idea about the field of machine learning 
+ 
+Now you have great idea about the field of machine learning... Keep Learning and exploring....
