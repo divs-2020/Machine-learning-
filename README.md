@@ -2,7 +2,7 @@
 Starting ewith your machine learning journey and folloeing these resources may take upto 6 months but you will have a full stack developed project at the end of this:)
 
 Github Roadmap Link:
-https://github.com/mrdbourke/machine-...
+https://github.com/mrdbourke/machine-learning-roadmap
 
 ## 1.Linear Algebra
 -- MIT OpencourseWare Linear Algebra: https://ocw.mit.edu/courses/mathemati...
